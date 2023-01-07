@@ -74,3 +74,7 @@
 
 4. 学生端从student_login.py中启动
    教师端从teacher_login.py中启动
+
+
+NKPHIN
+2023-01-07
