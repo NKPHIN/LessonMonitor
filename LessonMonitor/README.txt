@@ -69,8 +69,7 @@
 
 3. 分别修改student、teacher
    两个文件夹中的config.py配置文件
-   IP: 140.210.222.111
-   Port: 5000
+   IP和Port见飞书云文档中部署方案
 
 4. 学生端从student_login.py中启动
    教师端从teacher_login.py中启动
